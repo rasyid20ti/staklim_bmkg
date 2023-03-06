@@ -1,0 +1,206 @@
+.btn {
+    box-sizing: border-box;
+    -webkit-appearance: none;
+       -moz-appearance: none;
+            appearance: none;
+    background-color: transparent;
+    border: 2px solid #e74c3c;
+    border-radius: 0.6em;
+    color: #e74c3c;
+    cursor: pointer;
+    display: flex;
+    align-self: center;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1;
+    margin: 20px;
+    padding: 1.2em 2.8em;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+  }
+  .btn:hover, .btn:focus {
+    color: #fff;
+    outline: 0;
+  }
+  .third {
+    border-color: #3498db;
+    color: #fff;
+    box-shadow: 0 0 40px 40px #3498db inset, 0 0 0 0 #3498db;
+    transition: all 150ms ease-in-out;
+  }
+  .third:hover {
+    box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
+  }
+  
+  
+  .btn {
+    box-sizing: border-box;
+    -webkit-appearance: none;
+       -moz-appearance: none;
+            appearance: none;
+    background-color: transparent;
+    border: 2px solid #e74c3c;
+    border-radius: 0.6em;
+    color: #e74c3c;
+    cursor: pointer;
+    display: flex;
+    align-self: center;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1;
+    margin: 20px;
+    padding: 1.2em 2.8em;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+  }
+  .btn:hover, .btn:focus {
+    color: #fff;
+    outline: 0;
+  }
+  .btn1 {
+    border-color: #f1c40f;
+    color: #fff;
+    background-image: linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    transition: background 300ms ease-in-out;
+  }
+  .btn1:hover {
+    background-position: 0;
+  }
+
+  @import url('https://fonts.googleapis.com/css?family=poppins:200,300,400,500,600,700,800,900&display=swap');*
+  
+  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+  }
+  body
+  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #bedfe8;
+    
+
+  }
+  .accordion
+  {
+    width: 800px;
+    
+  } 
+  .accordion .contentBx
+  {
+    width: 1340px;
+    position: relative;
+    margin: 10px 20px;
+    
+  }
+  .accordion .contentBx .label
+  {
+    position: relative;
+    padding: 10px;
+    background: #2694af;
+    color: #fff;
+    cursor: pointer;
+    overflow-y: hidden;
+  }
+  .accordion .contentBx .label::before
+  {
+    content: '+';
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+    font-size: 1.5em;
+    overflow-y: hidden;
+  }
+  .accordion .contentBx.active .label::before
+  {
+    content: '-';
+    position: absolute;
+    top: 50px;
+    right: 20px;
+    transform: translateY(-50%);
+    font-size: 1.5em;
+    overflow-y: hidden;
+  }
+  .accordion .contentBx .content
+  {
+    position: relative;
+    padding: 10px;
+    background: #fff;
+    height: 0;
+    overflow: hidden;
+    transition: 0.5s;
+    overflow-y: hidden;
+  }
+
+  .accordion .contentBx.active .content
+  {
+    height: 150px;
+    padding: 10px;
+
+  }
+  .accordion .contentBy
+  {
+    position: relative;
+    margin: 10px 20px;
+    width: 1350px;
+    overflow-y: hidden;
+  }
+  .accordion .contentBy .label2
+  {
+    position: relative;
+    padding: 10px;
+    background: #26af64;
+    color: #fff;
+    cursor: pointer;
+    overflow-y: hidden;
+  }
+  .accordion .contentBy .label2::before
+  {
+    content: '+';
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+    font-size: 1.5em;
+    overflow-y: hidden;
+  }
+  .accordion .contentBy.active1 .label2::before
+  {
+    content: '-';
+    position: absolute;
+    top: 50px;
+    right: 20px;
+    transform: translateY(-50%);
+    font-size: 1.5em;
+    overflow-y: hidden;
+  }
+  .accordion .contentBy .content2
+  {
+    position: relative;
+    padding: 10px;
+    background: #fff;
+    overflow: hidden;
+    transition: 0.5s;
+    overflow-y: hidden;
+  }
+
+  .accordion .contentBy.active1 .content2
+  {
+    height: 150px;
+    padding: 10px;
+    overflow-y: hidden;
+
+  }

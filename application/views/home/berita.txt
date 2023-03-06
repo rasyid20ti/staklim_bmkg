@@ -1,0 +1,35 @@
+<div class="container-fluid posisi-berita">
+			<div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+				<h5 class="judul-besar">Berita Terbaru</h5>
+				<p class="deskripsi-isi">Berita terbaru berhubungan dengan kegiatan di Stasiun Klimatologi Riau</p>
+			</div>
+			<br>
+			<div class="container berita">
+				<div class="row" style="padding-bottom: 50px;">
+					<?php foreach($beritaPressRelease as $b): ?>
+					<div class="col-sm">
+						<div class="isi-berita">
+							<img src="<?= $b['foto']; ?>" class="padding-top: 10px; padding-bottom: 15px;">
+							<p class="padding-top:15px;"><i class="fa fa-tags" aria-hidden="true"></i> <?= $b['sub']; ?>
+							<i class="fa fa-calendar" aria-hidden="true"></i> <?=tgl_indo($b['date_created']); ?> <i class="fa fa-user-circle" aria-hidden="true"></i> <?=$b['penulis']; ?></p>
+							<h4 style="margin:3px;"><?= $b['title']; ?></h4>
+							<p class='isiBerita'><?php echo substr($b['isi'], 0, 250); ?></p>
+							<a href="<?php echo base_url('media/berita_detail/' . encrypt_url($b['id'])); ?>">Baca selengkapnya -></a>
+						</div>
+					</div>
+					<?php endforeach; ?>
+					<?php foreach($berita as $b): ?>
+					<div class="col-sm">
+						<div class="isi-berita">
+							<img src="<?= $b['foto']; ?>" class="padding-top: 10px; padding-bottom: 15px;">
+							<p class="padding-top:15px;"><i class="fa fa-tags" aria-hidden="true"></i> <?= $b['sub']; ?>
+							<i class="fa fa-calendar" aria-hidden="true"></i> <?=tgl_indo($b['date_created']); ?> <i class="fa fa-user-circle" aria-hidden="true"></i> <?=$b['penulis']; ?></p>
+							<h4 style="margin:3px;"><?= $b['title']; ?></h4>
+							<p class='isiBerita'><?php echo substr($b['isi'], 0, 250); ?></p>
+							<a href="<?php echo base_url('media/berita_detail/' . encrypt_url($b['id'])); ?>">Baca selengkapnya -></a>
+						</div>
+					</div>
+					<?php endforeach; ?>
+				</div>
+			</div>
+		</div>

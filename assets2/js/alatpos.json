@@ -1,0 +1,564 @@
+{
+	"entries": [{
+			"nama_pos": "SMPK Bangkinang"
+		},
+		{
+			"nama_pos": "Kampar"
+		},
+		{
+			"nama_pos": "Stasiun Klimatologi Kampar"
+		},
+		{
+			"nama_pos": "Koto Kampar Hulu"
+		},
+		{
+			"nama_pos": "XIII Koto Kampar"
+		},
+		{
+			"nama_pos": "Kuok"
+		},
+		{
+			"nama_pos": "Siak Hulu"
+		},
+		{
+			"nama_pos": "Kampar Kiri"
+		},
+		{
+			"nama_pos": "Kampar Kiri Hilir"
+		},
+		{
+			"nama_pos": "Kampar Kiri Hulu"
+		},
+		{
+			"nama_pos": "Tapung"
+		},
+		{
+			"nama_pos": "Tapung Hilir"
+		},
+		{
+			"nama_pos": "Tapung Hulu"
+		},
+		{
+			"nama_pos": "Salo"
+		},
+		{
+			"nama_pos": "Rumbio Jaya"
+		},
+		{
+			"nama_pos": "Bangkinang"
+		},
+		{
+			"nama_pos": "Perhentian Raja"
+		},
+		{
+			"nama_pos": "Kampa"
+		},
+		{
+			"nama_pos": "Kampar Utara"
+		},
+		{
+			"nama_pos": "Kampar Kiri Tengah"
+		},
+		{
+			"nama_pos": "Gunung Sahilan"
+		},
+		{
+			"nama_pos": "Rengat"
+		},
+		{
+			"nama_pos": "Rengat Barat"
+		},
+		{
+			"nama_pos": "Kelayang"
+		},
+		{
+			"nama_pos": "Pasir Penyu"
+		},
+		{
+			"nama_pos": "Peranap"
+		},
+		{
+			"nama_pos": "Lubuk Batu Jaya"
+		},
+		{
+			"nama_pos": "Siberida"
+		},
+		{
+			"nama_pos": "Batang Cenaku"
+		},
+		{
+			"nama_pos": "Batang Gansal"
+		},
+		{
+			"nama_pos": "Lirik"
+		},
+		{
+			"nama_pos": "Stasiun Meteorologi Indragiri Hulu"
+		},
+		{
+			"nama_pos": "Kuala Cenaku"
+		},
+		{
+			"nama_pos": "Sungai Lala"
+		},
+		{
+			"nama_pos": "Rakit Kulim"
+		},
+		{
+			"nama_pos": "Batang Peranap"
+		},
+		{
+			"nama_pos": "Selat Baru"
+		},
+		{
+			"nama_pos": "Bantan"
+		},
+		{
+			"nama_pos": "Bandar Laksamana"
+		},
+		{
+			"nama_pos": "Bukit Batu"
+		},
+		{
+			"nama_pos": "Mandau"
+		},
+		{
+			"nama_pos": "Rupat"
+		},
+		{
+			"nama_pos": "Rupat Utara"
+		},
+		{
+			"nama_pos": "Siak Kecil"
+		},
+		{
+			"nama_pos": "Pinggir"
+		},
+		{
+			"nama_pos": "Reteh"
+		},
+		{
+			"nama_pos": "Enok"
+		},
+		{
+			"nama_pos": "Kuala Indragiri"
+		},
+		{
+			"nama_pos": "Tembilahan"
+		},
+		{
+			"nama_pos": "Tempuling"
+		},
+		{
+			"nama_pos": "Gaung Anak Serka"
+		},
+		{
+			"nama_pos": "Mandah"
+		},
+		{
+			"nama_pos": "Kateman"
+		},
+		{
+			"nama_pos": "Keritang"
+		},
+		{
+			"nama_pos": "Tanah Merah"
+		},
+		{
+			"nama_pos": "Batang Tuaka"
+		},
+		{
+			"nama_pos": "Metro"
+		},
+		{
+			"nama_pos": "Gaung "
+		},
+		{
+			"nama_pos": "Kuala Lahang"
+		},
+		{
+			"nama_pos": "Tembilahan Hulu"
+		},
+		{
+			"nama_pos": "Kemuning"
+		},
+		{
+			"nama_pos": "Pelangiran"
+		},
+		{
+			"nama_pos": "Teluk Belengkong"
+		},
+		{
+			"nama_pos": "Pulau Burung"
+		},
+		{
+			"nama_pos": "Concong"
+		},
+		{
+			"nama_pos": "Kempas"
+		},
+		{
+			"nama_pos": "Benteng Utara"
+		},
+		{
+			"nama_pos": "Sungai Batang"
+		},
+		{
+			"nama_pos": "Ukui"
+		},
+		{
+			"nama_pos": "Pangkalan Kerinci"
+		},
+		{
+			"nama_pos": "UPTD Plasma Nutfah"
+		},
+		{
+			"nama_pos": "Pangkalan Kuras"
+		},
+		{
+			"nama_pos": "Pangkalan Lesung"
+		},
+		{
+			"nama_pos": "Langgam"
+		},
+		{
+			"nama_pos": "Bandara Sultan Syarif Harun Setia Negara"
+		},
+		{
+			"nama_pos": "Pelalawan"
+		},
+		{
+			"nama_pos": "Kerumutan"
+		},
+		{
+			"nama_pos": "Bunut"
+		},
+		{
+			"nama_pos": "Teluk Meranti"
+		},
+		{
+			"nama_pos": "Kuala Kampar"
+		},
+		{
+			"nama_pos": "Bandar Sei Kijang"
+		},
+		{
+			"nama_pos": "Bandar Petalangan"
+		},
+		{
+			"nama_pos": "Ujung Batu"
+		},
+		{
+			"nama_pos": "Rokan IV Koto"
+		},
+		{
+			"nama_pos": "SMPK Pasir Pangaraian"
+		},
+		{
+			"nama_pos": "Tambusai"
+		},
+		{
+			"nama_pos": "Kepenuhan"
+		},
+		{
+			"nama_pos": "Kunto Darussalam"
+		},
+		{
+			"nama_pos": "Rambah Samo"
+		},
+		{
+			"nama_pos": "Rambah Hilir"
+		},
+		{
+			"nama_pos": "Tambusai Utara"
+		},
+		{
+			"nama_pos": "Bangun Purba"
+		},
+		{
+			"nama_pos": "Tandun"
+		},
+		{
+			"nama_pos": "Bonai Darussalam"
+		},
+		{
+			"nama_pos": "Kepenuhan Hulu"
+		},
+		{
+			"nama_pos": "Kubu"
+		},
+		{
+			"nama_pos": "Tanjung Medan"
+		},
+		{
+			"nama_pos": "Dinas Pertanian Kab. Rokan Hilir"
+		},
+		{
+			"nama_pos": "Bangko"
+		},
+		{
+			"nama_pos": "Bagan Sinembah Raya"
+		},
+		{
+			"nama_pos": "Tanah Putih"
+		},
+		{
+			"nama_pos": "Ujung Tanjung"
+		},
+		{
+			"nama_pos": "UPTD Rimba Melintang"
+		},
+		{
+			"nama_pos": "BBU Rimba Melintang"
+		},
+		{
+			"nama_pos": "Bagan Sinembah"
+		},
+		{
+			"nama_pos": "Panipahan Darat"
+		},
+		{
+			"nama_pos": "Pasir Limau Kapas"
+		},
+		{
+			"nama_pos": "Sinaboi"
+		},
+		{
+			"nama_pos": "Pujud"
+		},
+		{
+			"nama_pos": "Balai Jaya"
+		},
+		{
+			"nama_pos": "Tanah Putih Tanjung Melawan"
+		},
+		{
+			"nama_pos": "Bangko Pusako"
+		},
+		{
+			"nama_pos": "Simpang Kanan"
+		},
+		{
+			"nama_pos": "Batu Hampar"
+		},
+		{
+			"nama_pos": "Rantau Kopar"
+		},
+		{
+			"nama_pos": "Pekaitan"
+		},
+		{
+			"nama_pos": "Kubu Babusalam"
+		},
+		{
+			"nama_pos": "Siak Sri Indrapura"
+		},
+		{
+			"nama_pos": "Sungai Apit"
+		},
+		{
+			"nama_pos": "Minas"
+		},
+		{
+			"nama_pos": "Tualang"
+		},
+		{
+			"nama_pos": "Sungai Mandau"
+		},
+		{
+			"nama_pos": "Dayun"
+		},
+		{
+			"nama_pos": "Kerinci Kanan"
+		},
+		{
+			"nama_pos": "SMPK Bunga Raya"
+		},
+		{
+			"nama_pos": "Kota Gasib"
+		},
+		{
+			"nama_pos": "Kandis"
+		},
+		{
+			"nama_pos": "Lubuk Dalam"
+		},
+		{
+			"nama_pos": "Sabak Auh"
+		},
+		{
+			"nama_pos": "Mempura"
+		},
+		{
+			"nama_pos": "Pusako"
+		},
+		{
+			"nama_pos": "BPP Kuantan Mudik"
+		},
+		{
+			"nama_pos": "Kuantan Tengah"
+		},
+		{
+			"nama_pos": "Singingi"
+		},
+		{
+			"nama_pos": "Kuantan Hilir"
+		},
+		{
+			"nama_pos": "Cerenti"
+		},
+		{
+			"nama_pos": "Benai"
+		},
+		{
+			"nama_pos": "Gunung Toar"
+		},
+		{
+			"nama_pos": "Singingi Hilir"
+		},
+		{
+			"nama_pos": "Pangean"
+		},
+		{
+			"nama_pos": "Logas Tanah Darat"
+		},
+		{
+			"nama_pos": "Inuman"
+		},
+		{
+			"nama_pos": "Hulu Kuantan"
+		},
+		{
+			"nama_pos": "Kuantan Hilir Seberang"
+		},
+		{
+			"nama_pos": "Sentajo Raya"
+		},
+		{
+			"nama_pos": "Tebing Tinggi"
+		},
+		{
+			"nama_pos": "Rangsang Barat"
+		},
+		{
+			"nama_pos": "Rangsang"
+		},
+		{
+			"nama_pos": "Tebing Tinggi Barat"
+		},
+		{
+			"nama_pos": "Merbau"
+		},
+		{
+			"nama_pos": "Pulau Merbau"
+		},
+		{
+			"nama_pos": "Tebing Tinggi Timur"
+		},
+		{
+			"nama_pos": "Rangsang Pesisir"
+		},
+		{
+			"nama_pos": "Stasiun Meteorologi Sultan Syarif Kasim II"
+		},
+		{
+			"nama_pos": "Dumai Barat"
+		},
+		{
+			"nama_pos": "Dumai Timur"
+		},
+		{
+			"nama_pos": "Bandara Pinang Kampai"
+		},
+		{
+			"nama_pos": "Bukit Kapur"
+		},
+		{
+			"nama_pos": "Sungai Sembilan"
+		},
+		{
+			"nama_pos": "Medang Kampai"
+		},
+		{
+			"nama_pos": "ARG Kuala Kampar"
+		},
+		{
+			"nama_pos": "ARG Minas"
+		},
+		{
+			"nama_pos": "ARG Pusako"
+		},
+		{
+			"nama_pos": "ARG Kabun"
+		},
+		{
+			"nama_pos": "ARG Tambusai"
+		},
+		{
+			"nama_pos": "AAWS Singingi Riau"
+		},
+		{
+			"nama_pos": "ARG Kandis"
+		},
+		{
+			"nama_pos": "ARG Sedinginan"
+		},
+		{
+			"nama_pos": "ARG Bengkalis"
+		},
+		{
+			"nama_pos": "ARG Siak"
+		},
+		{
+			"nama_pos": "ARG Kuansing"
+		},
+		{
+			"nama_pos": "ARG Pasir Pangaraian"
+		},
+		{
+			"nama_pos": "ARG XIII Koto Kampar"
+		},
+		{
+			"nama_pos": "ARG Teluk Meranti"
+		},
+		{
+			"nama_pos": "ARG Bangkinang"
+		},
+		{
+			"nama_pos": "ARG Sungai Pakning"
+		},
+		{
+			"nama_pos": "ARG Rokan IV Koto"
+		},
+		{
+			"nama_pos": "ARG Tembilahan"
+		},
+		{
+			"nama_pos": "ARG Selat Panjang"
+		},
+		{
+			"nama_pos": "ARG Batang Cinaku"
+		},
+		{
+			"nama_pos": "ARG Dumai"
+		},
+		{
+			"nama_pos": "AWS Tembilahan"
+		},
+		{
+			"nama_pos": "AAWS Kampar Kiri"
+		},
+		{
+			"nama_pos": "AAWS Rokan Hilir"
+		},
+		{
+			"nama_pos": "ARG Bungaraya"
+		},
+		{
+			"nama_pos": "ARG BPP Rumbai Pesisir"
+		},
+		{
+			"nama_pos": "ARG BPP Kampar Kiri"
+		}
+	]
+}

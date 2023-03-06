@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<pm25>
+  <judul>Konsentrasi pm25 di Pekanbaru2</judul>
+  <tahun>2023</tahun>
+  <bulan>03</bulan>
+  <tanggal>06</tanggal>
+  <jml_data>14</jml_data>
+  <satuan>ug/m3</satuan>
+  <data>
+    <item>
+      <LOKASI>PEKANBARU</LOKASI>
+      <JAM>0 </JAM>
+      <PM25>16.0</PM25>
+      <RH>90</RH>
+      <TEMP>24.5</TEMP>
+      <NAB>65</NAB>
+    </item>
+    <item>
+      <LOKASI>PEKANBARU</LOKASI>
+      <JAM>1 </JAM>
+      <PM25>11.6</PM25>
+      <RH>90</RH>
+      <TEMP>23.8</TEMP>
+      <NAB>65</NAB>
+    </item>
+    <item>
+      <LOKASI>PEKANBARU</LOKASI>
+      <JAM>2 </JAM>
+      <PM25>10.5</PM25>
+      <RH>91</RH>
+      <TEMP>23.3</TEMP>
+      <NAB>65</NAB>
+    </item>
+    <item>
+      <LOKASI>PEKANBARU</LOKASI>
+      <JAM>3 </JAM>
+      <PM25>17.0</PM25>
+      <RH>91</RH>
+      <TEMP>23.0</TEMP>
+      <NAB>65</NAB>
+    </item>
+    <item>
+      <LOKASI>PEKANBARU</LOKASI>
+      <JAM>4 </JAM>
+      <PM25>15.2</PM25>
+      <RH>91</RH>
+      <TEMP>22.7</TEMP>
+      <NAB>65</NAB>
+    </item>
+    <item>
+      <LOKASI>PEKANBARU</LOKASI>
+      <JAM>5 </JAM>
+      <PM25>15.5</PM25>
+      <RH>92</RH>
+      <TEMP>22.5</TEMP>
+      <NAB>65</NAB>
+    </item>
+    <item>
+      <LOKASI>PEKANBARU</LOKASI>
+      <JAM>6 </JAM>
+      <PM25>6.7</PM25>
+      <RH>92</RH>
+      <TEMP>22.4</TEMP>
+      <NAB>65</NAB>
+    </item>
+    <item>
+      <LOKASI>PEKANBARU</LOKASI>
+      <JAM>7 </JAM>
+      <PM25>13.0</PM25>
+      <RH>93</RH>
+      <TEMP>22.1</TEMP>
+      <NAB>65</NAB>
+    </item>
+    <item>
+      <LOKASI>PEKANBARU</LOKASI>
+      <JAM>8 </JAM>
+      <PM25>21.6</PM25>
+      <RH>93</RH>
+      <TEMP>23.4</TEMP>
+      <NAB>65</NAB>
+    </item>
+    <item>
+      <LOKASI>PEKANBARU</LOKASI>
+      <JAM>9 </JAM>
+      <PM25>7.8</PM25>
+      <RH>88</RH>
+      <TEMP>25.6</TEMP>
+      <NAB>65</NAB>
+    </item>
+    <item>
+      <LOKASI>PEKANBARU</LOKASI>
+      <JAM>10</JAM>
+      <PM25>10.3</PM25>
+      <RH>81</RH>
+      <TEMP>27.4</TEMP>
+      <NAB>65</NAB>
+    </item>
+    <item>
+      <LOKASI>PEKANBARU</LOKASI>
+      <JAM>11</JAM>
+      <PM25>20.6</PM25>
+      <RH>73</RH>
+      <TEMP>29.1</TEMP>
+      <NAB>65</NAB>
+    </item>
+    <item>
+      <LOKASI>PEKANBARU</LOKASI>
+      <JAM>12</JAM>
+      <PM25>26.1</PM25>
+      <RH>67</RH>
+      <TEMP>30.2</TEMP>
+      <NAB>65</NAB>
+    </item>
+    <item>
+      <LOKASI>PEKANBARU</LOKASI>
+      <JAM>13</JAM>
+      <PM25>29.9</PM25>
+      <RH>63</RH>
+      <TEMP>31.0</TEMP>
+      <NAB>65</NAB>
+    </item>
+  </data>
+</pm25>

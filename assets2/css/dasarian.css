@@ -1,0 +1,93 @@
+@import url(https://fonts.googleapis.com/css?family=Spectral);
+@import url(https://fonts.googleapis.com/css?family=Heebo);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+
+.headerDasarian {
+    padding-right: 20px;
+    padding-top: 15px;
+}
+
+.headerDasarian img {
+    width: 473px;
+    height: 461px;
+}
+
+.headerDasarian h5 {
+    text-align:right;
+    font-family: 'Spectral';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 97px;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.headerDasarian p {
+    text-align:right;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+}
+
+.headerDasarian input {
+    border-radius: 20px;
+}
+
+.headerDasarian button {
+    border-radius: 20px;
+    margin-left: 10px;
+}
+
+.headerDasarian input.empty {
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+}
+
+.isiDasarian {
+    background: #E5EFF8;
+}
+
+.kotakDasarian {
+    background: #FFF;
+    border-radius: 10px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.kotakDasarian img {
+    padding: 24px 31px 10px 22px;
+    border-radius: 10px;
+    width: 276px;
+    height: 218px;
+}
+
+.kotakDasarian h4 {
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 23px;
+    padding-bottom: 10px;
+}
+
+.createdDasarian {
+    padding-left: 20px;
+    text-align: left;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    color: #616161;
+}
+
+.text-black {
+    color: #000;
+    font-family: 'Roboto';
+    font-size: .875rem;
+}

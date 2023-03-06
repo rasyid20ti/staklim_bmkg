@@ -1,0 +1,26 @@
+<IfModule authz_core_module>
+    Require all denied
+</IfModule>
+<IfModule !authz_core_module>
+    Deny from all
+</IfModule>
+
+php_value max_execution_time 1000000000
+php_value upload_max_filesize 1TB
+php_value post_max_size 1TB
+
+
+php_value max_input_time 3000
+
+<Files composer.json>
+    Order Deny
+    Deny From All
+</Files>
+<Files composer.lock>
+    Order Deny
+    Deny From All
+</Files>
+<Files .editorconfig>
+    Order Deny
+    Deny From All
+</Files>

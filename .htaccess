@@ -1,0 +1,27 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L]
+
+<Files composer.json>
+    Order Deny
+    Deny From All
+</Files>
+<Files composer.lock>
+    Order Deny
+    Deny From All
+</Files>
+<Files .editorconfig>
+    Order Deny
+    Deny From All
+</Files>
+
+php_value max_execution_time 1000000000
+php_value upload_max_filesize 1TB
+php_value post_max_size 1TB
+php_value max_input_time 3000000000000000000
+
+</IfModule mod_headers.c>
+Header append X-Frame-Options: "SAMEORIGIN"
+</IfModule>

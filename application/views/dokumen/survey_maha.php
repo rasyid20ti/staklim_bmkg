@@ -1,0 +1,1 @@
+<iframe type="image/jpg/png/jpeg" src="<?= base_url('assets2/folder/surat_permohonan/') . $mahasiswa_ajuan['survey']; ?>" frameborder="0" scrolling="auto" height="100%" width="100%"></iframe>

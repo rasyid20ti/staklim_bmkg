@@ -1,0 +1,48 @@
+/* ini warna untuk BAGIAN NAMA KABUPATEN */
+#ub-content-toggle-c774ec69-1aa3-4307-bf37-f9708f355ace .wp-block-ub-content-toggle-accordion {
+    border-color: #C87732;
+}
+
+#ub-content-toggle-c774ec69-1aa3-4307-bf37-f9708f355ace .wp-block-ub-content-toggle-accordion-title-wrap {
+    background-color: #C87732;
+}
+
+#ub-content-toggle-c774ec69-1aa3-4307-bf37-f9708f355ace .wp-block-ub-content-toggle-accordion-title {
+    color: #000000;
+}
+
+#ub-content-toggle-c774ec69-1aa3-4307-bf37-f9708f355ace .wp-block-ub-content-toggle-accordion-toggle-wrap {
+    color: #000000;
+}
+
+.ub-content-toggle-title-c774ec69-1aa3-4307-bf37-f9708f355ace>a {
+    color: inherit;
+}
+
+/* ini untuk bagian nama kecamatan */
+#ub-content-toggle-828b026a-365f-4320-82d7-a382bde7560e .wp-block-ub-content-toggle-accordion {
+    border-color: #3BABBB;
+}
+
+#ub-content-toggle-828b026a-365f-4320-82d7-a382bde7560e .wp-block-ub-content-toggle-accordion-title-wrap {
+    background-color: #3BABBB;
+}
+
+#ub-content-toggle-828b026a-365f-4320-82d7-a382bde7560e .wp-block-ub-content-toggle-accordion-title {
+    color: #ffffff;
+}
+
+#ub-content-toggle-828b026a-365f-4320-82d7-a382bde7560e .wp-block-ub-content-toggle-accordion-toggle-wrap {
+    color: #000000;
+}
+
+.ub-content-toggle-title-828b026a-365f-4320-82d7-a382bde7560e>a {
+    color: inherit;
+}
+
+#primary {
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+}

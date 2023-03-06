@@ -1,0 +1,167 @@
+@import url(https://fonts.googleapis.com/css?family=Spectral);
+@import url(https://fonts.googleapis.com/css?family=Heebo);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+
+.headerBerita {
+    padding-right: 20px;
+    padding-top: 15px;
+}
+
+.headerBerita img {
+    width: 473px;
+    height: 461px;
+}
+
+.headerBerita h5 {
+    text-align:right;
+    font-family: 'Spectral';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 97px;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.headerBerita p {
+    text-align:right;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+}
+
+.headerBerita input {
+    border-radius: 20px;
+}
+
+.headerBerita button {
+    border-radius: 20px;
+    margin-left: 10px;
+}
+
+.headerBerita input.empty {
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+}
+
+.isiBerita {
+    background: #E5EFF8;
+}
+
+.kotakBerita {
+    background: #FFF;
+    border-radius: 10px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.kotakBerita img {
+    padding: 24px 31px 10px 22px;
+    border-radius: 10px;
+    width: 300px;
+    height: 250px;
+}
+
+.kotakBerita h4 {
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 23px;
+    padding-bottom: 10px;
+}
+
+.createdBerita {
+    padding-left: 20px;
+    text-align: left;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    color: #616161;
+}
+
+.text-black {
+    color: #000;
+    font-family: 'Roboto';
+    font-size: .875rem;
+}
+
+.teks-besar {
+    font-family: 'Roboto';
+    /* font-style: normal; */
+    /* font-weight: 400; */
+    font-size: 36px;
+    line-height: 53px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.teks-besar img {
+    width: 49px;
+    height: 50px;
+}
+
+.teks-besar p {
+    padding-left: 34px;
+}
+
+.deskripsi-berita {
+
+}
+
+.deskripsi-berita img {
+    border-radius: 20px;
+    height: 353px;
+    width: 100%;
+}
+
+.deskripsi-berita p{
+    padding-top: 9px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 12px;
+    text-align: center;
+    /* text-overflow: clip; */
+
+}
+
+.deskripsi-berita h3 {
+    padding-top: 15px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 20px;
+    /* display: flex; */
+    /* text-align: center; */
+}
+
+.colSamping img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.colSamping p {
+    padding-top: 9px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 12px;
+    text-align: center;
+}
+
+.isiBerita h3 {
+    font-family: 'Heebo';
+    /* font-size: 17px; */
+    font-weight: bold;
+
+}

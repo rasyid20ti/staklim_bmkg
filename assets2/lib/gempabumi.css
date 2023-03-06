@@ -1,0 +1,90 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
+
+.img-responsive {
+	display: block;
+    max-width: 100%;
+    height: auto;
+}
+.gempa-detail {
+    /* padding-left: 25px; */
+    list-style: none;
+}
+.gempabumi-detail {
+	font-size: 14px;
+	font-family: 'Roboto Slab', sans-serif;
+}
+.gempabumi-detail .ic {
+	background-repeat: no-repeat;
+	background-size: 20px 20px;
+	padding-left: 35px;
+	padding-top: 15px;
+	font-size: 14px;
+	background-position: center left;
+	position: relative;
+}
+.gempabumi-detail li {
+    margin-bottom: 15px;
+}
+.gempabumi-detail .magnitude {
+	background-image: url(../img/gempabumi/magnitude.png);
+}
+.gempabumi-detail .magnitude:before {
+	content: 'Magnitudo';
+	font-size: 12px;
+	position: absolute;
+    top: 0;
+}
+html[lang="en"] .gempabumi-detail .magnitude:before {
+	content: 'Magnitudo';
+}
+.gempabumi-detail .kedalaman {
+	background-image: url(../img/gempabumi/kedalaman.png);
+}
+.gempabumi-detail .kedalaman:before {
+	content: 'Kedalaman';
+	font-size: 12px;
+	position: absolute;
+    top: 0;
+}
+.gempabumi-detail .koordinat {
+	background-image: url(../img/gempabumi/koordinat.png);
+}
+.gempabumi-detail .koordinat:before {
+	content: 'Lokasi';
+	font-size: 12px;
+	position: absolute;
+    top: 0;
+}
+
+.gempabumi-detail .lokasi {
+	background-image: url(../img/gempabumi/lokasi.png);
+	font-size: 14px;
+	padding-top: 0;
+	background-size: 18px 18px;
+}
+.gempabumi-detail .tsunami {
+	background-image: url(../img/gempabumi/tsunami.png);
+	font-size: 14px;
+	padding-top: 0;
+	background-size: 18px 18px;
+}
+.gempabumi-detail .dirasakan {
+	background-image: url(../img/gempabumi/wilayah-dirasakan.png);
+	font-size: 14px;
+	padding-top: 0;
+	background-size: 18px 18px;
+}
+.gempabumi-detail.no-bot li {
+	margin-bottom: 5px;
+}
+.gempabumi-detail.no-bot li:last-child {
+	margin-top: 15px;
+}
+.gempabumi-detail.no-bot, .gempabumi-detail.no-bot li:last-child {
+	margin-bottom: 0;
+}
+.gempabumi-detail.no-bot .ic {
+	padding-top: 0;
+	background-size: 18px 18px;
+}
+

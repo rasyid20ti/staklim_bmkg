@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Spectral);
+@import url(https://fonts.googleapis.com/css?family=Heebo);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+
+.headerBayar img {
+    width: 80px;
+    height: 50px;
+}
+
+.headerBayar h5 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 59px;
+    color: aqua;
+}

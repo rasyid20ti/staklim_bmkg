@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Spectral);
+@import url(https://fonts.googleapis.com/css?family=Heebo);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+
+.headerSdm {
+    padding-right: 20px;
+    padding-top: 15px;
+    background: #649ACC;
+    color: white;
+}
+.headerSdm img {
+    width: 600px;
+    height: 350px;
+}
+
+.headerSdm h5 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 59px;
+}

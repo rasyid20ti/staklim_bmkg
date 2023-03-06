@@ -1,0 +1,40 @@
+.topbar-time {
+    line-height: 14px;
+    font: 14px/1.6 'Roboto', sans-serif;
+}
+.hari-digit {
+    font-size: 12px;
+    padding-left: 3rem!important;
+}
+.topbar-time {
+    color: #fff;
+    font-size: 13px;
+    padding-top: 7px;
+    /* padding: 7px 12px 7px 0; */
+    float: left;
+}
+.pull-right {
+    float: right;
+    padding-right: 3rem!important;
+}
+
+@font-face { 
+	font-family: 'FontJam'; 
+	src: url('digital-7mono.eot');
+	src: url('digital-7mono.eot?#iefix') format('embedded-opentype'),
+       url('digital-7mono.ttf') format('truetype');
+}
+#timecontainer a, #timecontainer1 a {
+	color: #fff;
+}
+.FontDigit {
+	font-family: 'FontJam';
+	font-size: 14px;
+	color: #00ff00;
+}
+.hari-digit {
+	font-size: 12px;
+}
+.topbar-time {
+	line-height: 14px;
+}

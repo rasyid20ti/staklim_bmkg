@@ -1,0 +1,130 @@
+@import url(https://fonts.googleapis.com/css?family=Spectral);
+@import url(https://fonts.googleapis.com/css?family=Heebo);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+
+.headerAdministrasi {
+	padding-right: 20px;
+	padding-top: 15px;
+}
+
+.headerAdministrasi img {
+	width: 723px;
+	height: 442px;
+}
+
+.headerAdministrasi h5 {
+	font-family: 'Heebo';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 45px;
+	line-height: 50px;
+	text-align: center;
+}
+
+.headerAdministrasi p {
+	font-family: 'Heebo';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 29px;
+	text-align: center;
+}
+
+.headerAdministrasi input {
+	border-radius: 20px;
+}
+
+.headerAdministrasi input.empty {
+	font-family: FontAwesome;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: inherit;
+}
+
+.isiAdministrasi {
+	background: #E5EFF8;
+}
+
+.kotakAdministrasi {
+	background: #FFF;
+	border-radius: 10px;
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+.kotakAdministrasi img {
+	padding: 24px 31px 10px 22px;
+	border-radius: 10px;
+	width: 276px;
+	height: 218px;
+}
+
+.kotakAdministrasi h3 {
+	font-family: 'Roboto';
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 23px;
+	padding-bottom: 10px;
+}
+
+.createdAdministrasi {
+	padding-left: 20px;
+	text-align: left;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 16px;
+	line-height: 19px;
+}
+
+.contentAdministrasi {
+	height: 400px;
+}
+
+.contentAdministrasi .kotak {
+	background: #FEFBFB;
+	border-radius: 10px;
+	width: 250px;
+}
+
+.contentAdministrasi h4 {
+	text-align: center;
+}
+
+.contentAdministrasi .text-block {
+	position: absolute;
+	top: 90%;
+	left: 12%;
+	/* right: 100%; */
+	bottom: 12px;
+	/* background: #FEFBFB; */
+	/* border-radius: 10px; */
+}
+
+.check-list {
+	margin: 0;
+	padding-left: 15px
+}
+
+.check-list li {
+	position: relative;
+	list-style-type: none;
+	padding-left: 20px;
+	margin: 0
+}
+
+.check-list li:before {
+	content: '';
+	display: block;
+	position: absolute;
+	left: 0;
+	top: -2px;
+	width: 5px;
+	height: 12px;
+	border-width: 0 2px 2px 0;
+	border-style: solid;
+	border-color: #00a8a8;
+	transform-origin: bottom left;
+	transform: rotate(45deg)
+}
